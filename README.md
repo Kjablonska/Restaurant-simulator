@@ -1,7 +1,5 @@
 # Object Oriented Programming
 
-# Premilinary Project
-
 
 # RESTAURANT
 
@@ -12,7 +10,6 @@
 ## Warsaw University of Technology
 
 
-##
 
 
 ## The story
